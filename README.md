@@ -19,7 +19,7 @@ I'm a recent MEng Computing (AI and ML) graduate from Imperial College London.
 
 🔭 I’m currently working on
 - 📈 **User Behaviour Modelling** - using ML pipelines to simulate & predict user session abandonment on digital streaming platforms
-- 🧠 **Provably Fair Data Imputation for Machine Learning**: My thesis project, applying adversarial training and certified robustness to data imputation. This is a private repo, _available on request_.
+- 🧠 **Provably Fair Data Imputation for Machine Learning**: My thesis project, evaluating data imputation methods (statistical and ML based) using certified robustness, fairness and accuracy measures. This is a private repo, _available on request_.
 - 🛠️ **Aurentiq**: Building an AI-powered matching engine for startups and VCs (private repo)
 
 🌱 I'm currently learning more about

@@ -15,18 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent MEng Computing (AI and ML) graduate from Imperial College London.
+I'm a recent MEng Computing (AI and ML) graduate from Imperial College London. Interested in ML, Software and Data roles.
+Experience: AWS | Quantinuum | Deutsche Bank
 
 🔭 I’m currently working on
 - 📈 **User Behaviour Modelling** - using ML pipelines to simulate & predict user session abandonment on digital streaming platforms
-- 🧠 **Provably Fair Data Imputation for Machine Learning**: My thesis project, evaluating data imputation methods (statistical and ML based) using certified robustness, fairness and accuracy measures. This is a private repo, _available on request_.
-- 🛠️ **Aurentiq**: Building an AI-powered matching engine for startups and VCs (private repo)
+- 🧠 **Provably Fair Data Imputation for Machine Learning**: My thesis project, evaluating data imputation methods (statistical and ML based) using certified robustness, fairness and accuracy measures under different missingness settings.
+- 🛠️ **Aurentiq**: Building an AI-powered matching engine for startups and VCs.
 
 🌱 I'm currently learning more about
-- **AI/ML**, **quantum computing**, and **robustness/fairness in ML**
+- **ML (particularly AI Safety)**, **Software/Infra/Systems**, and **Quantum Computing**
 
 👯 I’m looking to collaborate on:
-- Any interesting **AI/ML/Quantum Computing** Projects... or any genuinely interesting/impactful project!
+- Any impactful **ML/Software** Projects!
+- Also open to graduate/early-career roles in ML/software/data.
 
 📫 How to reach me: feel free to drop me a message on Linkedin at **https://www.linkedin.com/in/adhya-rajaram/**
 
